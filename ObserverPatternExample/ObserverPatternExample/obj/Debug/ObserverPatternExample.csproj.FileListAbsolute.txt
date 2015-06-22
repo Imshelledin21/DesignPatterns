@@ -1,0 +1,6 @@
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe.config
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\bin\Debug\ObserverPatternExample.pdb
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.exe
+C:\Users\sheldon.jackson\Documents\GitHub\DesignPatterns\ObserverPatternExample\ObserverPatternExample\obj\Debug\ObserverPatternExample.pdb
