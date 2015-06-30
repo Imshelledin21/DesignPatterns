@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="DuckBehaviors\BehaviorFactory.cs" />
     <Compile Include="DuckBehaviors\CrazyDuckBehavior.cs" />
+    <Compile Include="DuckBehaviors\GrapeDuckBehavior.cs" />
     <Compile Include="DuckBehaviors\IBehavior.cs" />
     <Compile Include="DuckBehaviors\MallardBehavior.cs" />
     <Compile Include="DuckBehaviors\RubberDuckBehavior.cs" />
@@ -50,6 +51,7 @@
     <Compile Include="DuckStates.cs" />
     <Compile Include="Ducks\CrazyDuck.cs" />
     <Compile Include="Ducks\Duck.cs" />
+    <Compile Include="Ducks\GrapeDuck.cs" />
     <Compile Include="Ducks\IDuck.cs" />
     <Compile Include="Ducks\Mallard.cs" />
     <Compile Include="Ducks\RubberDuck.cs" />

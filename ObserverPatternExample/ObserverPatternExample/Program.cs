@@ -16,10 +16,12 @@ namespace ObserverPatternExample {
             Duck mallard = new Mallard(flock, duckBehaviorFactory);
             Duck sicklyDuck = new SicklyDuck(flock, duckBehaviorFactory);
             Duck rubberDuck = new RubberDuck(flock, duckBehaviorFactory);
+            Duck grapeDuck = new GrapeDuck(flock, duckBehaviorFactory);
 
             flock.Attach(mallard);
             flock.Attach(sicklyDuck);
             flock.Attach(rubberDuck);
+            flock.Attach(grapeDuck);
 
             DuckStory(flock, rubberDuck, sicklyDuck, duckBehaviorFactory);
 
