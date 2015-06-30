@@ -24,6 +24,11 @@ namespace ObserverPatternExample.DuckBehaviors {
                 return new CrazyDuckBehavior();
             }
 
+            if (duckType.GetType() == typeof (GrapeDuck))
+            {
+                return new GrapeDuckBehavior(duckType);
+            }
+
             throw new Exception("Duck Type is not valid.");
         }
     }
